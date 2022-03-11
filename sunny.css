@@ -1,0 +1,42 @@
+body{
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    background-color: hsl(218, 81%, 81%);
+}
+
+.maruti-100{
+    height: 100vh;
+}
+
+.card{
+    max-width: 300px;
+    transition: all 300ms;
+}
+
+
+.card img{
+
+    max-width: 250px;
+}
+
+.card img:hover {
+
+    opacity: 0.8;
+
+}
+
+.card,.card img {
+    border-radius: 15px;
+}
+
+.card p {
+    font-weight: 600;
+}
+
+
+.attribution { 
+    font-size: 10px; 
+    text-align: center;
+    color: hsl(228, 45%, 44%);
+}
+
